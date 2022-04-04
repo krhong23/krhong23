@@ -49,4 +49,4 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-[![Rami's github stats](https://github-readme-stats.vercel.app/api?username=krhong23)](https://github.com/anuraghazra/github-readme-stats)
+[![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=krhong23)](https://github.com/krhong23/github-readme-stats)
