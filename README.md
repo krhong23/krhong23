@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently building **Side Project**
 
+- 📒 I’m currently learning **JPA** and **Test**
+
 - 📝 I regularly write articles on [https://velog.io/@krhong](https://velog.io/@krhong)
 
 - 📫 How to reach me **krhong23@gmail.com**
