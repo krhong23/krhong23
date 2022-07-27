@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm karam</h1>
 <h3 align="center">A passionate backend developer from the Republic of Korea</h3>
 
-- 🌱 I’m currently learning **Node.js** and **React.js**
+- 🌱 I’m currently building **Side Project**
 
 - 📝 I regularly write articles on [https://velog.io/@krhong](https://velog.io/@krhong)
 
